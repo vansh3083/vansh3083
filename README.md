@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **cvsaini3083@gmail.com**
 
-- ⚡ Fun fact **My size is XS**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
