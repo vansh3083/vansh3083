@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vansh3083" alt="vansh3083" /></a> </p>
 
-- 🔭 I’m currently working on [DSA Using Java](https://github.com/vansh3083/Data-Structures-and-Algorithms)
-
 - 🌱 I’m currently learning **Java**
 
 - 🤝 I’m looking for help with **Backend Development**
