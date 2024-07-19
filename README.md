@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vansh3083&show_icons=true&theme=dracula&locale=en" alt="vansh3083" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vansh3083&" alt="vansh3083" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vansh3083&theme=highcontrast" alt="vansh3083" /></p>
